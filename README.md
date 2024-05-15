@@ -1,4 +1,4 @@
-# PROJECT_18.IMDB
+# PROJECT.IMDB
 
 Preview on github.io: [DEMO](https://babak-chalacki.github.io/IMDB/)
 ---
