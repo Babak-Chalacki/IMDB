@@ -1,4 +1,9 @@
+
 # PROJECT.IMDB
+TextRank Cinema is a minimalist website similar to IMDb that only displays movie titles, ranks, and ratings. It provides a simple interface, basic movie details, and efficient search functionality for finding specific movie titles.
+
+
+
 
 Preview on github.io: [DEMO](https://babak-chalacki.github.io/IMDB/)
 ---
